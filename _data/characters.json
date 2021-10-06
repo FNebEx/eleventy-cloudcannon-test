@@ -1,14 +1,18 @@
 [
-  {
-    "name":"Ryūko Matoi",
-    "age": "17"
-  },
-  {
-    "name":"Satsuki Kiryūin",
-    "age": "18"
-  },
-  {
-    "name":"Mako Mankanshoku",
-    "age": "17"
-  }
+	{
+		"name": "Ryūko Matoi",
+		"age": "17"
+	},
+	{
+		"name": "Satsuki Kiryūin",
+		"age": "18"
+	},
+	{
+		"name": "Mako Mankanshoku",
+		"age": "17"
+	},
+	{
+		"name": "KO",
+		"age": "6-11"
+	}
 ]

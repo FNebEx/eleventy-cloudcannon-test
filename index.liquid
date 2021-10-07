@@ -1,10 +1,16 @@
 ---
 layout: default.liquid
 derp: "A great 72 hour run"
+css: "./css/main.css"
 ---
 
 <h1>Hello There</h1>
 
 {% for character in characters %}
   <p>{{ character.name }}</p>
+{% endfor %}
+
+{% for blog in collections.blog %}
+  <h3>{{ blog.data.title }}</h3>
+  <a href="{{ blog.url }}">Read</a>
 {% endfor %}

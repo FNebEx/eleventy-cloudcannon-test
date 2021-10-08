@@ -1,0 +1,5 @@
+{
+  "layout": "default.liquid",
+  "tags": "blog",
+  "css":"../../css/main.css"
+}

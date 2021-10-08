@@ -3,5 +3,5 @@
   "tags": "albums",
   "css":"../../css/main.css",
   "permalink": "/{{ title | slug }}/",
-  "img": "../img"
+  "image": "../img"
 }

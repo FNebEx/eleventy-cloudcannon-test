@@ -14,3 +14,8 @@ css: "./css/main.css"
   <h3>{{ blog.data.title }}</h3>
   <a href="{{ blog.url }}">Read</a>
 {% endfor %}
+
+{% for album in collections.albums %}
+  <a href="{{ album.url }}">{{album.data.title }}</a>
+
+{% endfor %}

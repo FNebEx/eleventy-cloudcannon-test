@@ -1,0 +1,7 @@
+{
+  "layout": "album.liquid",
+  "tags": "albums",
+  "css":"../../css/main.css",
+  "permalink": "/{{ title | slug }}/",
+  "img": ""
+}

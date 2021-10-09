@@ -3,9 +3,6 @@
   "tags": "albums",
   "css":"../../css/main.css",
   "permalink": "/{{ title | slug }}/",
-  "_options": {
-    "image": {
-      "uploads_dir": "/img/"
-    }
-  }
+  "tracklist": [],
+  "image": "https://via.placeholder.com/150"
 }

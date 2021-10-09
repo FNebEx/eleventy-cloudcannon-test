@@ -1,4 +1,5 @@
 ---
 title: Artistry
-image: "../../img/test.jpg"
+image: /img/artistry.jpg
 ---
+

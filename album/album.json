@@ -3,5 +3,12 @@
   "tags": "albums",
   "css":"../../css/main.css",
   "permalink": "/{{ title | slug }}/",
-  "image": "../img"
+  "_options": {
+    "image": {
+      "uploads_dir": "uploads/front-matter-images/:title"
+    },
+    "content": {
+      "uploads_dir": "uploads/:year/:month/:day/:title"
+    }
+  }
 }

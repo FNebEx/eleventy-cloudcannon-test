@@ -1,5 +1,5 @@
 ---
 title: Artistry
-image: /img/artistry.jpg
+# image: /img/artistry.jpg
 ---
 

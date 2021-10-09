@@ -5,10 +5,7 @@
   "permalink": "/{{ title | slug }}/",
   "_options": {
     "image": {
-      "uploads_dir": "uploads/front-matter-images/:title"
-    },
-    "content": {
-      "uploads_dir": "uploads/:year/:month/:day/:title"
+      "uploads_dir": "/img/"
     }
   }
 }
